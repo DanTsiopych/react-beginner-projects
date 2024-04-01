@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Все проекты разработаны для бесплатного курса на канале [Archakov Blog](https://www.youtube.com/c/ArchakovBlog)",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
